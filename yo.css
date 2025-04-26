@@ -1,0 +1,35 @@
+body {
+  font-family: 'Menlo', monospace;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f9f9f9;
+}
+
+h1, h2 {
+  color: #222;
+}
+
+.divider {
+  height: 1px;
+  background: #ddd;
+  margin: 30px 0;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.hover-effect:hover {
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  color: #777;
+  font-size: 0.9em;
+}
